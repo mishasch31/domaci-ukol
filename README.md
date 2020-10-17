@@ -1,0 +1,2 @@
+# CzechitasDA
+Digitální akademie
